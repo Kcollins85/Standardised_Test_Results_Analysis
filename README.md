@@ -1,11 +1,9 @@
-# Pandas-Challenge
+# Standardised Test Results Analysis
 
-You are the new Chief Data Scientist for your local government area. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
-
-As a first task, you've been asked to analyse the area-wide standardised test results. You'll be given access to every student's maths and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
+Analyse the area-wide standardised test results using a dataset that provides every student's maths and reading scores, as well as various information on the schools they attend. Aggregate the data to showcase obvious trends in school performance.
 
 
-# Analysis
+# My Analysis
 
 The dataset analyses a total of 39,170 students across 15 schools.  The total student average maths score is 70.34%  and the average reading score is 69.98%.  Of the total 15 schools, 7 of these schools are government funded and 8 of the schools are independently funded.  
 
