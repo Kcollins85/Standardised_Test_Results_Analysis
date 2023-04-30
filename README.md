@@ -2,6 +2,10 @@
 
 Analyse the area-wide standardised test results using a dataset that provides every student's maths and reading scores, as well as various information on the schools they attend. Aggregate the data to showcase obvious trends in school performance.
 
+- This project uses the Pandas library to manipulate data into tables that allow for aggregating and summarizing of district and school data. 
+- Array calculations are performed to create a snapshot of school district's key metrics. 
+- Analysis done to show trends such as top peforming schools, bottom performing schools, math and reading scores by grade, and scores by school spending, size, and school type.
+
 
 # My Analysis
 
@@ -19,3 +23,5 @@ When taking a closer look at the results we can see that:
 What we can conclude here is:
 - Having a higher budget per student doesn’t not yield better results
 - Independent schools outperform government schools
+
+An assignment for Monash University's Data Analytics Bootcamp (2023)
